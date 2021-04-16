@@ -23,20 +23,6 @@
     }
   ],
   "requests": [
-    {
-      "name": "miotre",
-      "phone": "8 093 567 87 23",
-      "id": 1
-    },
-    {
-      "name": "miotre",
-      "phone": "345789",
-      "id": 2
-    },
-    {
-      "name": "dfghjkl;",
-      "phone": "544567",
-      "id": 3
-    }
+    
   ]
 }

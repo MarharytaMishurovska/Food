@@ -222,7 +222,7 @@ window.addEventListener("DOMContentLoaded", () => {
             }) => {
                 new MenuCard(img, altimg, title, descr, price, ".menu .container").render();
             });
-        })
+        });
 
         // створення нових карточок без привязки до шаблонів
     // getResource('http://localhost:3000/menu')
@@ -339,7 +339,7 @@ window.addEventListener("DOMContentLoaded", () => {
         totalSlides = document.getElementById('total'),
         currentSlide = document.getElementById("current");
 
-        console.log(current);
+        console.log(currentSlide);
 
     // function showCurrentSlide(n) {
     //     showSlide(slideIndex = n);
