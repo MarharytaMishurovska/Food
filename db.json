@@ -24,19 +24,14 @@
   ],
   "requests": [
     {
-      "name": "miotre",
-      "phone": "8 093 567 87 23",
+      "name": "John",
+      "phone": "+ 1 087 8890 87 88",
       "id": 1
     },
     {
-      "name": "miotre",
-      "phone": "345789",
+      "name": "John",
+      "phone": "+ 1 087 8890 87 88",
       "id": 2
-    },
-    {
-      "name": "dfghjkl;",
-      "phone": "544567",
-      "id": 3
     }
   ]
 }
